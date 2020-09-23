@@ -1,0 +1,24 @@
+@import '../dialog/dialog1.scss';
+.dialog{
+  min-height: auto!important;
+  max-height:600px;
+  overflow-y: scroll;
+  .item{
+    display: flex;
+  }
+  .item .head{
+    width: 150px!important;
+  }
+  .el-icon-close{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 24px;
+    color: #bbb;
+    cursor: pointer;
+  }
+  .content{
+    padding: 20px 0;
+    text-align: center;
+  }
+}

@@ -1,0 +1,91 @@
+
+@charset "utf-8";
+@import './transition.scss';
+$menuText:#bfcbd9;
+$menuActiveText:#409EFF;
+$subMenuActiveText:#f4f4f5;
+
+$menuBg:#304156;
+$menuHover:#263445;
+
+$subMenuBg:#1f2d3d;
+$subMenuHover:#001528;
+
+$sideBarWidth: 210px;
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+ 
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+//flex 模块样式统一
+.dp-flex{
+    display: flex
+}
+.fl-al-center{
+    align-items: center;
+}
+.fl-jc-center{
+    justify-content: center;
+}
+.fl-wrap{
+    flex-wrap: wrap;
+}
+.flex-1{
+    flex: 1;
+    overflow: hidden;
+}
+.app-container{
+    padding: 20px;
+    .tips{
+        height: 50px;
+        font-size: 14px;
+        background: #eee;
+        padding: 0 15px;
+        border-radius: 4px;
+        color: #353535;
+        img{
+          width: 20px;
+          height: auto;
+          display:block;
+          margin-right: 10px
+        }
+    }
+}
+.width35{
+    width: 35px;
+}
+.width70{
+    width: 70px;
+}
+.red{
+    color: #f56c6c
+}
+.blue{
+    color: #409eff
+}
+.mb10{
+    margin-bottom: 10px;
+}
+.mb20{
+    margin-bottom: 20px
+}
+.mb30{
+    margin-bottom: 30px
+}
+.mt20{
+    margin-top: 20px
+}
+.mt30{
+    margin-top: 30px
+}
+.el-input-group {
+    width: 300px
+}
+.store__pagecount {
+   float: right;
+   margin-top:15px
+}

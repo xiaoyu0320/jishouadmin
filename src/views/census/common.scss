@@ -1,0 +1,73 @@
+.cencus-title {
+  margin: 15px 0;
+}
+.cencus-list {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #eee;
+  border-radius: 10px;
+  padding: 10px
+}
+.wrap{
+  border: 2px solid #eee;
+  border-radius: 10px;
+  overflow: hidden;
+  .item{
+     flex: 1;
+     text-align: center;
+     font-size: 14px;
+  }
+  .top{
+     display: flex;
+     border-bottom: 1px solid #eee;
+     line-height: 40px;
+  }
+  .col{
+     border-bottom: 1px solid #eee;
+     display: flex;
+     line-height: 36px;
+  }
+  .bottom{
+     .head{
+        border-bottom: 1px solid #eee;
+        display: flex;
+        line-height: 44px;
+        color: #909399
+     }
+     .total{
+        display: flex;
+        background: rgba($color: #bbb, $alpha: .35);
+        color: #606266;
+        line-height: 40px;
+     }
+  }
+}
+.cencus-item p{
+  margin-bottom: 10px
+}
+.cencus-item {
+  flex: 1;
+  padding: 30px 20px
+}
+.cencus-item:first-child {
+  position: relative;
+  box-sizing: border-box;
+  padding-left: 70px;
+  border-right: 2px  solid #eee
+}
+.cencus-item:first-child .circle {
+  position: absolute;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.co1 {
+  background: #ddd;
+}
+.co2 {
+  background: #29d
+}
+.co3 {
+  background: #f56c6c
+}

@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 533 417" style="enable-background:new 0 0 533 417;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+	.st3{fill:#6D5A24;}
+	.st4{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<g>
+	<circle class="st0" cx="288" cy="150" r="139.1"/>
+	<circle cx="288" cy="150" r="115.3"/>
+	<path d="M162.3,231.2l-72.6,83.4c-7.3,8.3-2,21.4,9,22.4l41.2,3.8c13.5,1.2,25,10.5,29,23.5l13.6,44c3.6,11.6,19.3,13,25,2.3
+		l61.8-118L162.3,231.2z"/>
+	<path d="M412,226.9l77.3,82.4c7.3,8.3,2,21.4-9,22.4l-41.2,3.8c-13.5,1.2-25,10.5-29,23.5l-13.6,44c-3.6,11.6-19.3,13-25,2.3
+		l-61.8-118L412,226.9z"/>
+</g>
+</svg>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 533 417" style="enable-background:new 0 0 533 417;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+	.st3{fill:#6D5A24;}
+	.st4{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<g>
+	<circle class="st0" cx="288" cy="150" r="139.1"/>
+	<circle cx="288" cy="150" r="115.3"/>
+	<path d="M162.3,231.2l-72.6,83.4c-7.3,8.3-2,21.4,9,22.4l41.2,3.8c13.5,1.2,25,10.5,29,23.5l13.6,44c3.6,11.6,19.3,13,25,2.3
+		l61.8-118L162.3,231.2z"/>
+	<path d="M412,226.9l77.3,82.4c7.3,8.3,2,21.4-9,22.4l-41.2,3.8c-13.5,1.2-25,10.5-29,23.5l-13.6,44c-3.6,11.6-19.3,13-25,2.3
+		l-61.8-118L412,226.9z"/>
+</g>
+</svg>
+>>>>>>> f9695cd9e01237b2693c87894834485d751fe5b1
